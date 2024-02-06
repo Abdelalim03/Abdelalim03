@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelalim03&label=Profile%20views&color=0e75b6&style=flat" alt="abdelalim03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelalim03" alt="abdelalim03" /></a> </p>
-
-- 🔭 I’m currently working on [Pwny Racing Platform](shellmates.club)
+- 🔭 I’m currently working on [Pwny Racing Platform]
 
 - 🌱 I’m currently learning **Web Exploitation, Network Security, Devops**
 
