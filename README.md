@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelalim03&label=Profile%20views&color=0e75b6&style=flat" alt="abdelalim03" /> </p>
 
-- 🔭 I’m currently working on [Pwny Racing Platform]
 
 - 🌱 I’m currently learning **Web Exploitation, Network Security, Devops**
 
